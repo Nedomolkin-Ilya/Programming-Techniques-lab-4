@@ -1,0 +1,153 @@
+My firs generater
+Midle: 516847
+Otkl: 314964
+CoEf: 0.609395
+Chi^2: 9.8
+
+Midle: 430987
+Otkl: 273384
+CoEf: 0.63432
+Chi^2: 16.56
+
+Midle: 502206
+Otkl: 298624
+CoEf: 0.594626
+Chi^2: 13.44
+
+Midle: 472529
+Otkl: 301990
+CoEf: 0.639093
+Chi^2: 17.6
+
+Midle: 499985
+Otkl: 279014
+CoEf: 0.558044
+Chi^2: 7.2
+
+Midle: 500483
+Otkl: 293453
+CoEf: 0.586339
+Chi^2: 9.28
+
+Midle: 440265
+Otkl: 290487
+CoEf: 0.659801
+Chi^2: 17.08
+
+Midle: 446114
+Otkl: 278791
+CoEf: 0.624932
+Chi^2: 8.24
+
+Midle: 432006
+Otkl: 261106
+CoEf: 0.604403
+Chi^2: 13.96
+
+Midle: 539096
+Otkl: 297317
+CoEf: 0.551511
+Chi^2: 21.24
+
+My second generater
+Midle: 516847
+Otkl: 314964
+CoEf: 0.609395
+Chi^2: 9.8
+
+Midle: 430987
+Otkl: 273384
+CoEf: 0.63432
+Chi^2: 16.56
+
+Midle: 502206
+Otkl: 298624
+CoEf: 0.594626
+Chi^2: 13.44
+
+Midle: 472529
+Otkl: 301990
+CoEf: 0.639093
+Chi^2: 17.6
+
+Midle: 499985
+Otkl: 279014
+CoEf: 0.558044
+Chi^2: 7.2
+
+Midle: 500483
+Otkl: 293453
+CoEf: 0.586339
+Chi^2: 9.28
+
+Midle: 440265
+Otkl: 290487
+CoEf: 0.659801
+Chi^2: 17.08
+
+Midle: 446114
+Otkl: 278791
+CoEf: 0.624932
+Chi^2: 8.24
+
+Midle: 432006
+Otkl: 261106
+CoEf: 0.604403
+Chi^2: 13.96
+
+Midle: 539096
+Otkl: 297317
+CoEf: 0.551511
+Chi^2: 21.24
+
+mt19937 cpp generater
+Midle: 394746
+Otkl: 270672
+CoEf: 0.685686
+Chi^2: 17.08
+
+Midle: 525991
+Otkl: 282001
+CoEf: 0.536133
+Chi^2: 17.6
+
+Midle: 527810
+Otkl: 277379
+CoEf: 0.525528
+Chi^2: 1.48
+
+Midle: 401167
+Otkl: 242685
+CoEf: 0.604948
+Chi^2: 20.2
+
+Midle: 476877
+Otkl: 272717
+CoEf: 0.571881
+Chi^2: 12.4
+
+Midle: 514920
+Otkl: 303114
+CoEf: 0.588661
+Chi^2: 10.84
+
+Midle: 517162
+Otkl: 307449
+CoEf: 0.594494
+Chi^2: 9.28
+
+Midle: 468361
+Otkl: 282079
+CoEf: 0.602268
+Chi^2: 5.12
+
+Midle: 509430
+Otkl: 302563
+CoEf: 0.593925
+Chi^2: 8.76
+
+Midle: 528119
+Otkl: 284173
+CoEf: 0.538085
+Chi^2: 16.04
+
